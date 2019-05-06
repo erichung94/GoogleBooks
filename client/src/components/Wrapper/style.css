@@ -1,0 +1,13 @@
+.wrapper {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #e5e5e5;
+    min-height: 80%;
+    width: 90%;
+    padding: 20px;
+    justify-content: center;
+    overflow: auto;
+    margin: auto;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+  }
